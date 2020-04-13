@@ -1,5 +1,5 @@
 from tfrecord import tools
-from tfrecord import torch
+# from tfrecord import torch
 
 from tfrecord import example_pb2
 from tfrecord import iterator_utils
